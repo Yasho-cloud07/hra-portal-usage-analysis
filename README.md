@@ -41,7 +41,6 @@ in your browser
 ## Data
 
 * CSV files are located in the `/data` folder
-* (Modify this if you exclude large data)
 
 ---
 
