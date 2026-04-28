@@ -18,7 +18,7 @@ The analysis spans ~28 months of data and ~6.8 million events.
 
 * `/report/index.html` → Final interactive report/dashboard
 * `/data/` → Dataset (CSV files)
-* `/scripts/` → Data processing scripts (if applicable)
+* `/scripts/` → Data processing scripts 
 * `/outputs/` → Generated charts and results
 
 ---
